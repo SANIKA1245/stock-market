@@ -20,16 +20,3 @@ Responsive Design: Access the dashboard from various devices with a user-friendl
 
 Data Export: Export portfolio data and charts in a PNG Format for offline analysis.
 
-Installation
-To download this Repository You can download the zip file or Clone the Project Repository using Git with the below command:
-
-git clone https://github.com/DhruvAthaide/StockMarketFinancialDashboard.git
-Move the Command Line to the Project Directory:
-
-cd '.\StockMarketFinancialDashboard\'
-Then Run the following commands to install the Script Requirements:
-
-pip install -r requirements.txt
-Then you can go ahead and run the Dashboard using the command:
-
-bokeh serve --show main.py
