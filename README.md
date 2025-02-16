@@ -25,12 +25,15 @@ python
 
 Future Work:
 Machine Learning Integration: Integrate machine learning models to predict stock prices and provide buy/sell recommendations
+
 Real-time Data: Update the dashboard to display real-time stock data
+
 Customization: Allow users to customize the dashboard layout and add/remove widgets as per their preference
+
 Alert System: Integrate an alert system to notify users of significant price movements or other important events.
+
 Data Visualization: Enhance data visualization to provide a better understanding of the stock market trends and patterns.
+
 Add more features: Add more features such as sentiment analysis, news analysis, and technical analysis to provide a more comprehensive view of the stock market.
-Improve user experience: Improve the user experience by making the dashboard more user-friendly and intuitive.
-Add more data sources: Add more data sources such as historical data, economic indicators, and company-specific data to provide a more comprehensive view of the stock market.
-Improve data quality of data: Improve the quality of data by cleaning, processing, and transforming it to make it more accurate and reliable.
+
 
